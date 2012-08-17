@@ -1,0 +1,8 @@
+#this file is the file state
+@start
+finished=no
+file.name="data.dat"
+file.size=111114
+file.offset=11550
+file.block=350
+@end

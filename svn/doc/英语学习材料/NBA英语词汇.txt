@@ -1,0 +1,348 @@
+NBA 各种投篮方式
+(slam) dunk：(强力)灌篮
+bank shot：擦板球
+double pump：拉杆式投篮(verb)
+fade-away shot：后仰式跳投
+hook shot：钩射投篮
+jump shot：跳投
+layup：带球上篮
+perimeter shot：中距离投篮
+set shot：立定投篮
+three-point shot：三分球
+
+NBA 各种统计术语
+assist：助功
+block shot：阻攻，盖火锅儿
+defensive rebound：防守篮板球
+field goal percentage：投球命中率
+field goal：投球命中
+free throw percentage：罚球命中率
+free throw：罚球
+offensive rebound：进攻篮板球
+rebound：篮板球
+scoring：得分
+steal：抄截
+three-point shot percentage：三分球命中率
+turnover：失误
+
+场地装备篇
+backboard：篮板
+back court：后场
+freethrow lane：罚球圈，禁区
+freethrow line：罚球线
+front court：前场
+game clock：比赛用时钟
+halftime：中场休息时间
+hoop：篮框，篮圈
+mid-court：中场
+net：篮网
+painted area：罚球圈，禁区
+restricted area near the basket：禁区内篮框下的小圆圈区域
+rim：篮框，篮圈
+scoring table：记录台，记分台
+shot clock：时限钟（进攻方在24秒内必须投篮，并且球必须触及篮框，否则即 违例)
+three-point line：三分（球）线
+top of the circle：靠近禁区顶端之三分（球）线附近
+wing：（左、右两边）底线区域
+
+规则篇
+blocking foul：阻挡犯规
+buzzer：（比赛用的）蜂鸣器（表示时间终了，换人…等）
+charging foul：（带球）撞人（犯规）
+dead ball：死球（停止比赛进行时段）
+defensive basket interference：防守方干扰投篮得分
+delay of game：阻碍比赛之正常进行
+disqualification：犯满离场，"毕业"
+double dribble：两次运球（违例）
+ejection：驱逐出场
+elbowing：打拐子
+expiration (of game, first half…)：(全场比赛，上半场…的比赛)时间终了
+first half：上半场
+first (second, third, fourth) period：比赛的第一(第二，第三，第四)节
+five ticks left on the (game clock, shot clock…)：(全场比赛，时限钟上…的)时间只剩下5秒钟
+flagrant foul：恶性犯规
+foul：犯规
+foul out：犯满离场，"毕业"
+foul trouble：快要犯满离场，"领到一张准毕业证书"
+full timeout：全时(100秒的)暂停
+goaltending：干扰投篮得分
+hand-checking：以手掌推挡对方进攻球员之犯规动作
+held ball：持球（双方均持球不放）
+illegal defense：防守违例
+illegal offense：进攻违例（见isolation）
+isolation：四位进攻球员在一边，而由第五位球员单吃对方防守球员
+jump ball：争球，跳球
+loose ball foul：双方均无持球权时的犯规（通常发生于双方争夺篮板球时）
+offensive basket interference：进攻方干扰投篮得分
+out of bound：球出界线（千万不要说outside）
+overtime：加时赛，延长赛
+referee：裁判
+second half：下半场
+shot clock violation：违反24秒内必须投篮(并且球必须触及篮框)时限之规定
+substitute：换人(上场、下场)
+suspension：停止出赛（之处罚）
+technical foul：技术犯规
+ten-second violation：进攻方10秒钟内未带球过中场之违例
+three-second violation：（篮下）3秒钟之违例
+throw a punch：出拳打架
+throw in：发球入场
+traveling：（带球）走步
+twenty-second timeout：只有20秒钟之暂停
+walking：（带球）走步
+
+战术篇
+backdoor cut：从两边底线往篮下的战术
+block out：把对方球员挡住，使其不易强到篮球赛，卡位
+cut：切入
+double team：用两位防守球员包夹进攻球员
+dribble out the time：进攻方以运球方式消耗掉比赛所剩下时间
+eat up the clock：进攻方以运球或传球方式消耗掉比赛所剩下时间
+fast break：快攻
+foul strategy：犯规战术
+give and go：（进攻方持球球员的）传切战术
+jockey for position：（篮下）卡位
+milk the time away：进攻方以运球或传球方式消耗掉比赛所剩下时间
+one-one-one defense：人盯人防守
+pick and roll：（进攻方做掩护之球员的）挡切战术
+post-up play：（进攻方持球球员背对篮框）单吃对方防守球员之战术
+triple team：用三位防守球员包夹进攻球员
+zone defense：区域防守，区域联防
+
+动作篇
+(throw a) baseball pass：（快攻时)长传
+(shoot) an air ball：(投)篮外空心球，"面包"
+behind-the-back dribble：背后（换手）运球
+carrying the ball："翻球"
+cross-leg dribble：胯下运球
+dribble：运球
+driving to the hoop：带球上篮
+four-point play：投进3分球后因被犯规再罚进一分
+hacking：打手犯规
+holding：拉手犯规
+make the basket：投篮得分
+make the hoop：投篮得分
+monster dunk：狂猛灌篮
+nothing but the net：空心球（入篮）
+palming："翻球"
+reverse dunk：倒灌篮
+reverse lay-up：反手走篮
+shoot behind the arc：投三分球
+score a basket：投篮得分
+swish：空心球（入篮）
+air ball：三不沾
+tap in：托球入篮
+three-point play：投进2分球后因被犯规再罚进一分
+
+球队球员篇
+assistant coach：助理教练
+backcourt：后卫组（包括控球后卫及得分后卫）
+backup：后备（替换，支持）球员
+bench：（指全体）后备（替换，支持）球员
+bench player：（指个人）后备（替换，支持）球员
+center中锋（又称5号位置球员）
+coach：教练
+frontline：锋线（包括大前锋，小前锋，中锋）
+GM（general manager）：球队经理
+Mascot：球队吉祥物
+MVP：最有价值球员
+one-guard：控球后卫
+point guard：控球后卫
+power forward：大前锋（又称4号位置球员）
+rookie：第二年球员，菜鸟（球员）
+shooting guard：得分后卫
+sixth man：第六人
+small forward：小前锋（又称3号位置球员）
+sophomore：第二年球员
+starter：（指个人）先发球员
+starting lineup：（指全体）先发球员
+swingman:摇摆人（指兼能担任得分后卫及小前锋的球员）
+trainer：球队训练员
+two-guard：得分后卫
+veteran：资深球员，老鸟（球员）
+
+比赛篇
+away game：客场比赛
+final：总决赛
+first round：首轮比赛
+GB (games behind)：落后战绩最领先球队的胜场场数
+guest team：客队
+home court：主场
+home court advantage：主场优势
+home game：主场比赛
+home team：主队
+losing streak：连败场数，连败纪录
+post season：季后赛
+regular season：季赛
+road game：客场比赛
+schedule：赛程
+semi-final：准决赛
+standings：战绩（表）
+winning streak：连胜场数，连胜纪录
+
+NBA 球队一览表
+
+Western Conference西区
+Pacific Division 大西洋组
+Golden State Warriors 金州勇士队
+LA Clippers 洛杉矶快艇队
+LA Lakers 洛杉矶湖人队
+Phoenix Suns凤凰城太阳队
+Portland Trailblazers (简称Blazers) 波特兰拓荒者队
+Sacramento Kings 萨克拉门托国王队
+Seattle Supersonics (简称Sonics) 西雅图超音速队
+Midwest Division 中西部区
+Dallas Mavericks 达拉斯小牛队
+Denver Nuggets 丹佛掘金队
+Houston Rockets 休斯敦火箭队
+Minnesota Timberwolves 明尼苏达森林狼队
+San Antonio Spurs 圣安东尼奥马刺队
+Utah Jazz犹他爵士队
+Vancouver Grizzlies 温哥华灰熊队
+
+Eastern Conference 东区
+Atlantic Division 大西洋组
+Miami Heat 迈阿密热浪队
+New York Knickerbockers (简称Knicks) 纽约尼克斯队
+Philadelphia 76ers 费城七六人队
+Orlando Magic奥兰多魔术队
+Boston Celtics 波士顿凯尔特人队
+New Jersey Nets 新泽西篮网队
+Washington Wizards 华盛顿奇才队
+Central Division 中央组
+Atlanta Hawks 亚特兰大老鹰队
+Charlotte Hornets 夏洛特黄蜂队
+Chicago Bulls 芝加哥公牛队
+Cleveland Cavaliers克里夫兰骑士队
+Detroit Pistons底特律活塞队
+Indiana Pacers 印地安纳步行者队
+Milwaukee Bucks 密尔沃基雄鹿队
+Toronto Raptors 多伦多猛龙队
+
+单词表
+Air ball:“三不沾”，投出的球什么都没碰到。
+Alley-oop:“空中接力”。一个运动员把球抛向空中，另一个队员在空中接住球把球扣入篮筐。
+Arena:比赛场；竞技场。比如Seattle的主场名叫Key Arena。
+Assist:助攻(缩写：Ast.)。
+Backboard:篮板。注意不是basketboard。
+Backcourt:后场。一支球队本方的半场为后场，即这支球队所要防守的那半场。
+Backdoor paly:篮球基本战术之一。当一个队员在罚球弧周围接到球时，另一个动员立刻从弱侧切入篮下，接队友的传球投篮得分。
+Baseline:底线。球场两端的边界线。
+Basket:篮筐。也作ring，还有一种通俗的说法是hoop。
+Bench:替补队员。
+Block shot:盖帽(缩写：Blk.)。
+Bo嘘声(n)；发出嘘声(v)。球迷发泄不满的一种方法。
+Bounce pass:击地传球。
+Box out:抢篮板球挡人，即抢篮板球时站在对手和篮之间，用身体挡住防守队员的动作。
+Brick:球打在篮筐或篮板上被崩出来。许多公牛队的球迷在客队罚球时都手执一块上写"Brick"的牌子在罚球队员的眼前不停的晃动，扰乱他的视线，以达到干扰罚球的目的。
+Buzzer beater:比赛结束前的最后一投。buzzer是比赛用的蜂鸣器。
+Captian:队长。队长是场上惟一有资格与裁判讨论规则和判罚的人。
+Coach:教练。比如Head coach是主教练，Assistant coach是助理教练。
+Coast-to-coast:从球场的一端到另一端(n)。例如：coast-to-coast pass。
+Conference:联盟。NBA分东、西两个联盟(Eastern Conference和Western Conference)，每个联盟都有自己的logo。
+Commissioner:总裁。NBA的现任总裁是David Stern。
+Court:球场；赛场。home court主场。
+Crossover:交叉运球过人。是Tim Hardaway的商标动作。
+Cut:切入。
+Debut:首次上场。
+Defense:防守。当客队进攻时，我们经常能听到主场的球迷在体育馆音效师的带领下高喊"Defense! Defense!"。
+Deny the ball:绕前防守。
+Disqualification:被罚下场(缩写：DQ.)。
+Division:赛区。NBA共有四个赛区，每个联盟下属两个赛区。
+Double-double:两双，即两项技术统计指标达两位数。
+Double-team:双人夹击。
+Double dribble:两次运球。
+Downtown:三分线以外。
+Draft:选秀，即NBA每年一度的纳新大会。
+Dribble:运球(vt,n)。
+Du原义是二重唱，在篮球中专指双人组合。
+Fadeaway shot:后仰投篮。也作fadeaway jumper。
+Fake:假动作(n)；做假动作(v)。
+Fast break:快攻；快速突破。
+Finals:总决赛。Semifinals半决赛。
+Field goal:投篮(总称)，包括两分球的投篮也包括三分球的投篮(缩写：FG.)。
+Finger roll:低手上篮时手指拨球的动作。
+Flagrant foul:没有必要或动作过大的犯规。
+Foul:犯规。个人犯规是personal foul；全队的累计犯规叫team foul。
+Foul troublen)一个队员由于受到犯规次数的约束而带来的麻烦，比如说这个队员的法规次数已接近6次，再犯一次或两次规就将被罚下场。
+Free agent:自由人。合同的期满的运动员和新人都是自由人，自由人的去留不受球队约束。
+Free throw:罚球(缩写：FT.)。
+Frontcourt:前场。对手的半场为前场，即本方队员攻击的那半场。
+Give-and-go 基本战术配合之一，进攻队员将球传给另队友--give，然后向篮下切入，再接队友的回传球上篮(或扣篮)得分--go。也就是我们常说的“传切配合”。
+Gunner:经常投篮的投手。
+Hand-checking:a:一种防守技术，即用手接触对方的身体来跟踪对手的位置。也作hand-check。b:防守犯规的一种。防守队员用手阻挡进攻队员的走位。不能张开双臂阻挡防守队员的移动，合法的hand-checking技术只允许用手接触对方的身体来跟踪对手的位置，但手部不允许加力，也不允许阻碍对手的视线。
+Hang time:滞空时间，即运动员投篮时在空中停留的时间。
+High post:罚球弧的周围。
+Hook shot:钩手投篮，有时也直接用"hook"表示。
+Illegal defense:非法防守。联防防守即为非法防守。
+Injury list:伤员名单。如果某个队员受伤不能参加比赛，根据NBA的规定必须要将其列入伤员名单(伤员名单是公开的)，以示对球迷的负责。
+Jam:扣篮。one-handed jam单手扣篮；two-handed jam双手扣篮。著名歌星Michael Jackson和Michael Jordan合作拍过一部MTV，名字就叫"Jam"。
+Jersey:运动员的背心，也作uniform。有些为球队做出过巨大贡献的运动员退役时他的jersey也跟随他一起退役，他的jersey被高悬在球队主场的天花板上，这意味着以后其他运动员不能再使用这件jersey上的号码了。
+Jump ball:跳球；争球。
+Jump shot:跳投。也作jumper。
+Lane:罚球区，也作free throw lane。篮球刚发明的时侯罚球区是细长的，其宽度比罚球弧的直径还要短，形状就象把钥匙，所以也称之为the key。
+Layup:上篮。
+Ligament:韧带。cruciate ligament，十字韧带，膝关节中的韧带，是运动员最容易受伤的部位，分anterior cruciate ligament和posterior cruciate ligament。
+Locker room:更衣室。
+Lottery:确定选秀顺序的过程。以前是通过掷硬币决定，因其不确定性所以称之为"lottery"。
+Low post:三秒区内，篮筐两侧，靠近底线的那部分。
+Matchup:攻防上各个位置的对应关系(n)。
+Meniscus:半月板。膝关节中的一块软骨，也是运动员容易受伤的地方之一，我们经常会听到某个运动员因为半月板撕裂而上了伤员名单，几个月不能打球。
+Move:移动。这个词在NBA里出现的频率特别高，比如，一个漂亮的移动我们说"Great move!"；后转身的摆脱我们称之为"Spin move"。
+MVP:Most Valuable Player，最有价值的运动员。
+Net:篮网。检验球是否入筐的标志，原Utah的David Benoit在扣篮时，球砸在自己的头上从篮筐中弹出，而且整个过程中球又没有触及篮网，结果进球被判无效。
+No-charge area:进攻有理区。根据去年的新规则在两个篮下各画定一以篮筐的中心为圆心，以4英尺为半径的半圆(虚线)，此区域被称作进攻有理区，在进攻有理区里只有带球撞人而没有阻挡犯规(注：O'Neal修正案除外)。
+Offense:进攻。形容词形式是offensive(缩写：off.)，可以修饰其它名词，例如offensive rebound就是前场篮板球(进攻篮板球)。
+Outlet pass:抢到篮球板后的第一传，一般都是隔场的长传。
+Overtime:加时赛，时间为5分钟。
+Palming:我们常说的“翻腕”，运球违例动作，也作Carrying the ball。
+Pass:传球。
+Personal foul:个人犯规。
+Pick-and-roll:挡拆战术。篮球中的基本进攻战术之一，进攻队员给持球的队友作掩护，英语叫"set a pick"，然后掩护队员向篮下移动叫"roll"，再接队友的传球，在无人防守的情况下投篮。Pick n' Roll是Malone和Stockton的看家本领。以pick为基础衍生出的战术还有pick-and-fade、pick-and-split等。
+Pick:掩护。
+Pivot:a:以一只脚为中枢脚转动身体改变方向的动作(n)。b:篮下，通常由中锋控制的区域。
+Playoff:复赛；季后赛，即常规赛结束后各联盟的前八名的淘汰赛。
+Point guard:组织后卫，也作控球后卫。
+Position:位置。NBA中运动员被分为三个位置--前锋、中锋、后卫。
+Power forward:大前锋，我国常称之为“二中锋”。二者略有不同，“二中锋”是基于中锋的位置，来源于“双中锋”战术，这是我们从苏联老大哥那里学来的；大前锋还是前锋，他们是队里的篮板能手和防守中坚。
+Press:紧逼(防守)。full-court press，全场紧逼；half-court press，半场紧逼。
+Pump fake:投篮的假动作。
+Quadruple-double:四双。即四项技术统计指标超过两位数。
+Quarter:节。一场NBA比赛分四节，每节12分钟。前两节称first-half，后两节称second-half。
+Rebound:篮板球(缩写：Reb.)。
+Refree:裁判。
+Rejection:盖帽。
+Reverse:反身的(a)。比如从底线切入后的反身扣篮是reverse dunk。
+Rookie:新人，即第一年在NBA打球的运动员。
+Run:连续得分。比赛中屏幕上会经常打出某支球队12-0 run in last 4 minutes，就是说这支球队在刚刚过去的4分钟内连得了12分，打了个12比0的小高潮。
+Salary Cap:工资上限。
+Score:得分。Scorer得分手。
+Screen:掩护，同pick。
+Season:赛季。
+Shot clock:24秒计时器。
+Sideline:边线。
+Sixth man:第六人，即第一个替补上场的队员。
+Slam dunk:重扣，特指双手持球高高跳起的使出吃奶力气的重扣，也可以是单手的重扣，这里slam表示砰的一声，强调扣篮时发出的声音。也作Dunk。
+Squad:五人组，篮球队的非正式说法。
+Starting-lineup:开场阵容。
+Steal:断球；抢断球(缩写：Stl.)。
+Strong side:强侧。有球的一侧为强侧。(关于强侧与弱侧的具体定义请见《联防FAQ》)
+Substitutes:替补队员。
+Suspend:暂时中止运动员上场比赛；禁赛。
+Switch:换(防)。
+Team:夹击。(注：不一定是双人夹击，可以是多人夹击)
+Technical foul:技术犯规。
+Three-point shot:三分投篮。
+Three-pointer:三分球。
+Three-second violation:三秒违例。
+Tie:平局；打平。
+Timeout:暂停。NBA中有20秒的短暂停(20-second timeout)和100秒的长暂停(regular timeout)。
+Tip-in:补篮。
+Transition:由攻转守的过程。
+Traveling:走步违例，也作Walking。
+Triple-double:三双，即三项技术统计指标超两位数。
+Turnover:失误，(缩写：To.)。NBA中专门有一项数据统计叫assist/turnover，是用这个队员助攻数比上他的失误数，这项统计能准确的反映一个组织后卫是否称职。
+Uniform:制服。篮球运动员的制服当然是背心和短裤了，uniform有时也特指背心。
+Veteran:老运动员。NBA非常重视veteran，各球队都把自己的veteran视作一笔财富，veteran这个词在NBA出现的几率是非常高的。
+Weak side:弱侧。无球的一侧为弱侧。(关于强侧与弱侧的具体定义请见《联防FAQ》)
+Wide open:开阔(n.)，无人防守。大多数情况下战术配合的目的就是给队友制造wide open，以便从容出手。
+Zone:联防；区域防守。也作Zone defense。

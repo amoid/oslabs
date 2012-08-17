@@ -1,0 +1,101 @@
+service httpd start
+
+ssh登录，执行 yum -y install php-dom php-gd php-mcryp ,这安装了如下几个模块 php-dom php-gd ，
+
+php-mcryp，然后service httpd restart 即可。
+chmod 777 settings.php
+
+方法一：
+MySQL提供跳过访问控制的命令行参数，通过在命令行以此命令启动MySQL服务器：
+safe_mysqld --skip-grant-tables&
+即可跳过MySQL的访问控制，任何人都可以在控制台以管理员的身份进入MySQL数据库。
+需要注意的是在修改完密码以后要把MySQL服务器停掉重新启动才会生效
+先找到mysql.server 然后停止mysql服务
+# mysqld_safe --skip-grant-tables --skip-networking &
+# mysql
+>use mysql;
+>update user set password=PASSWORD("new-password") where user="root";
+>flush privileges;
+
+方法二：
+可以进行如下的步骤重新设置MySQL的root密码：
+1．首先确认服务器出于安全的状态，也就是没有人能够任意地连接MySQL数据库。
+因为在重新设置MySQL的root密码的期间，MySQL数据库完全出于没有密码保护的
+状态下，其他的用户也可以任意地登录和修改MySQL的信息。可以采用将MySQL对
+外的端口封闭，并且停止Apache以及所有的用户进程的方法实现服务器的准安全
+状态。最安全的状态是到服务器的Console上面操作，并且拔掉网线。
+2．修改MySQL的登录设置：
+# vi /etc/my.cnf
+在[mysqld]的段中加上一句：skip-grant-tables
+例如：
+[mysqld]
+datadir=/var/lib/mysql
+socket=/var/lib/mysql/mysql.sock
+skip-name-resolve
+skip-grant-tables
+保存并且退出vi。
+3．重新启动mysqld
+# /etc/init.d/mysqld restart
+Stopping MySQL: [ OK ]
+Starting MySQL: [ OK ]
+4．登录并修改MySQL的root密码
+# /usr/bin/mysql
+Welcome to the MySQL monitor. Commands end with ; or \g.
+Your MySQL connection id is 3 to server version: 3.23.56
+Type ‘help;’ or ‘\h’ for help. Type ‘\c’ to clear the buffer.
+mysql> USE mysql ;
+Reading table information for completion of table and column names
+You can turn off this feature to get a quicker startup with -A
+Database changed
+mysql> UPDATE user SET Password = password ( ‘new-password’ ) WHERE User = ‘root’ ;
+Query OK, 0 rows affected (0.00 sec)
+Rows matched: 2 Changed: 0 Warnings: 0
+mysql> flush privileges ;
+Query OK, 0 rows affected (0.01 sec)
+mysql> quit
+Bye
+5．将MySQL的登录设置修改回来
+# vi /etc/my.cnf
+将刚才在[mysqld]的段中加上的skip-grant-tables删除
+保存并且退出vi。
+6．重新启动mysqld
+# /etc/init.d/mysqld restart
+Stopping MySQL: [ OK ]
+Starting MySQL: [ OK ]
+windows
+1.以系统管理员身份登陆系统。
+2.打开cmd—–net start 查看mysql是否启动。启动的话就停止net stop mysql.
+3.我的mysql安装在d:\usr\local\mysql4\bin下。
+4.跳过权限检查启动mysql.
+d:\usr\local\mysql4\bin\mysqld-nt –skip-grant-tables
+5.重新打开cmd。进到d:\usr\local\mysql4\bin下：
+d:\usr\local\mysql4\bin\mysqladmin -uroot flush-privileges password “newpassword”
+d:\usr\local\mysql4\bin\mysqladmin -u root -p shutdown 这句提示你重新输密码。
+6.在cmd里net start mysql
+7.搞定了。
+2，MySQL4.1以上版本一种密码错误问题的解决方法
+1 # SET PASSWORD FOR ’some_user’@’some_host’ = OLD_PASSWORD(‘newpwd’);
+2 # FLUSH PRIVILEGES;
+3，Mysql数据库修复
+myisamchk -r -q d:\mysql\data\latin1\*
+r代表修复
+q代表快速
+d:\mysql\data\latin1\*数据库里面 *代表里面的所有的文件
+
+方法三：
+如果你忘记了你的MYSQL的root口令的话，你可以通过下面的过程恢复。
+1. 向mysqld server 发送kill命令关掉mysqld server(不是 kill -9),存放进程ID的文件通常在MYSQL的数据库所在的目录中。
+kill `cat /mysql-data-directory/hostname.pid`
+你必须是UNIX的root用户或者是你所运行的SERVER上的同等用户，才能执行这个操作。
+2. 使用`--skip-grant-tables' 参数来启动 mysqld。
+3. 使用`mysql -h hostname mysql'命令登录到mysqld server ，用grant命令改变口令。你也可以这样做：`mysqladmin -h hostname -u user password 'new password''。
+（其实也可以用use mysql; update user set password =password('yourpass') where user='root' 来做到。）
+4. 载入权限表： `mysqladmin -h hostname flush-privileges' ，或者使用 SQL 命令`FLUSH PRIVILEGES'。（当然，在这里，你也可以重启mysqld。）
+
+方法四：(一定要先备份)
+1，重新在另一台电脑上安装相同版本的MySQL
+2，删除忘记密码的电脑中MySQL安装目录中\data\mysql的全部内容（要先停止MySQL服务）
+3，Copy新装的电脑上MySQL安装目录中\data\mysql的全部内容 to 刚刚删除的目录中
+4，启动MySQL服务
+
+这样就只有一个root用户了，密码为空……

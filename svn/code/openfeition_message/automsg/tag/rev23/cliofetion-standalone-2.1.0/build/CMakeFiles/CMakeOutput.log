@@ -1,0 +1,105 @@
+The system is: Linux - 2.6.29.4-167.fc11.i586 - i686
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/lib/ccache/gcc 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/mnt/lindows/work/trunk/cliofetion-standalone-2.1.0/build/CMakeFiles/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/lib/ccache/c++ 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+CMakeCXXCompilerId.cpp:67: 警告：不建议使用从字符串常量到‘char*’的转换
+CMakeCXXCompilerId.cpp:157: 警告：不建议使用从字符串常量到‘char*’的转换
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/mnt/lindows/work/trunk/cliofetion-standalone-2.1.0/build/CMakeFiles/CompilerIdCXX/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /mnt/lindows/work/trunk/cliofetion-standalone-2.1.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+gmake: Warning: File `Makefile' has modification time 0.02 s in the future
+gmake[1]: Entering directory `/mnt/lindows/work/trunk/cliofetion-standalone-2.1.0/build/CMakeFiles/CMakeTmp'
+gmake[1]: Warning: File `CMakeFiles/cmTryCompileExec.dir/progress.make' has modification time 0.048 s in the future
+/usr/bin/cmake -E cmake_progress_report /mnt/lindows/work/trunk/cliofetion-standalone-2.1.0/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/testCCompiler.c.o
+/usr/lib/ccache/gcc    -o CMakeFiles/cmTryCompileExec.dir/testCCompiler.c.o   -c /mnt/lindows/work/trunk/cliofetion-standalone-2.1.0/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/usr/lib/ccache/gcc       -fPIC CMakeFiles/cmTryCompileExec.dir/testCCompiler.c.o  -o cmTryCompileExec -rdynamic 
+gmake[1]: 警告：检测到时钟错误。您的创建可能是不完整的。
+gmake[1]: Leaving directory `/mnt/lindows/work/trunk/cliofetion-standalone-2.1.0/build/CMakeFiles/CMakeTmp'
+gmake: 警告：检测到时钟错误。您的创建可能是不完整的。
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /mnt/lindows/work/trunk/cliofetion-standalone-2.1.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+gmake: Warning: File `Makefile' has modification time 0.05 s in the future
+gmake[1]: Entering directory `/mnt/lindows/work/trunk/cliofetion-standalone-2.1.0/build/CMakeFiles/CMakeTmp'
+gmake[1]: Warning: File `CMakeFiles/cmTryCompileExec.dir/flags.make' has modification time 0.016 s in the future
+/usr/bin/cmake -E cmake_progress_report /mnt/lindows/work/trunk/cliofetion-standalone-2.1.0/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o
+/usr/lib/ccache/gcc    -o CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake/Modules/CMakeCCompilerABI.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/usr/lib/ccache/gcc       -fPIC CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o  -o cmTryCompileExec -rdynamic 
+gmake[1]: 警告：检测到时钟错误。您的创建可能是不完整的。
+gmake[1]: Leaving directory `/mnt/lindows/work/trunk/cliofetion-standalone-2.1.0/build/CMakeFiles/CMakeTmp'
+gmake: 警告：检测到时钟错误。您的创建可能是不完整的。
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /mnt/lindows/work/trunk/cliofetion-standalone-2.1.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+gmake: Warning: File `Makefile' has modification time 0.043 s in the future
+gmake[1]: Entering directory `/mnt/lindows/work/trunk/cliofetion-standalone-2.1.0/build/CMakeFiles/CMakeTmp'
+gmake[1]: Warning: File `CMakeFiles/cmTryCompileExec.dir/flags.make' has modification time 0.0066 s in the future
+/usr/bin/cmake -E cmake_progress_report /mnt/lindows/work/trunk/cliofetion-standalone-2.1.0/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec.dir/testCXXCompiler.cxx.o
+/usr/lib/ccache/c++     -o CMakeFiles/cmTryCompileExec.dir/testCXXCompiler.cxx.o -c /mnt/lindows/work/trunk/cliofetion-standalone-2.1.0/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/usr/lib/ccache/c++        -fPIC CMakeFiles/cmTryCompileExec.dir/testCXXCompiler.cxx.o  -o cmTryCompileExec -rdynamic 
+gmake[1]: 警告：检测到时钟错误。您的创建可能是不完整的。
+gmake[1]: Leaving directory `/mnt/lindows/work/trunk/cliofetion-standalone-2.1.0/build/CMakeFiles/CMakeTmp'
+gmake: 警告：检测到时钟错误。您的创建可能是不完整的。
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /mnt/lindows/work/trunk/cliofetion-standalone-2.1.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+gmake: Warning: File `Makefile' has modification time 0.04 s in the future
+gmake[1]: Entering directory `/mnt/lindows/work/trunk/cliofetion-standalone-2.1.0/build/CMakeFiles/CMakeTmp'
+gmake[1]: Warning: File `CMakeFiles/cmTryCompileExec.dir/flags.make' has modification time 0.0024 s in the future
+/usr/bin/cmake -E cmake_progress_report /mnt/lindows/work/trunk/cliofetion-standalone-2.1.0/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o
+/usr/lib/ccache/c++     -o CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/usr/lib/ccache/c++        -fPIC CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o  -o cmTryCompileExec -rdynamic 
+gmake[1]: 警告：检测到时钟错误。您的创建可能是不完整的。
+gmake[1]: Leaving directory `/mnt/lindows/work/trunk/cliofetion-standalone-2.1.0/build/CMakeFiles/CMakeTmp'
+gmake: 警告：检测到时钟错误。您的创建可能是不完整的。
+
+

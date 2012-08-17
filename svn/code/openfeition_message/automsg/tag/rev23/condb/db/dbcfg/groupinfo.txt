@@ -1,0 +1,15 @@
+#belowed info mation are the group member
+@group start
+group.0.start
+mem.0 no.13611655652 #王力波 
+mem.1 no.13602468480 #甘敏
+mem.2 no.13857583119 #黄华平
+mem.3 no.18802199206 #朱泽万
+mem.4 no.13681684837 #周伟
+mem.5 no.15216670822 #于乐
+mem.6 no.13805738162 #张晶
+mem.7 no.13564273594 #王巧健
+mem.8 no.15172930835 #张山
+mem.9 no.15951899583 #游客
+group.0.end
+@group end
